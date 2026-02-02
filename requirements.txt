@@ -1,4 +1,5 @@
-reportlab
-qrcode
 streamlit
 pandas
+python-barcode
+qrcode
+Pillow
